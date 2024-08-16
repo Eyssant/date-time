@@ -1,7 +1,7 @@
 # The Versatile Uses of Caesium Atom: Precision in Every Field
 <p>Caesium (Cs), a soft, silvery-golden metal, is best known for its pivotal role in atomic clocks. Yet, this versatile element’s contributions extend far beyond timekeeping, impacting various fields, including technology, medicine, and industry.</p>
 
-## Caesium in Atomic Clocks: The Pulse of Precision
+### Caesium in Atomic Clocks: The Pulse of Precision
 <p><a href="https://www.datetimeonline.com/time/what_is_tai.php">International Atomic Time</a> (TAI) is one of the most accurate and dependable time standards in use today. Caesium-133 is the heart of these atomic clocks and the most accurate timekeeping device ever created. These clocks measure time-based on the vibrations of caesium atoms, which oscillate at an exact frequency of 9,192,631,770 times per second. This incredible precision has led to the definition of the second in the International System of Units (SI) being based on cesium. These atomic clocks are crucial for maintaining accurate time standards globally, ensuring that timekeeping is consistent across all applications, from scientific research to global communications.</p>
 
 <div align="center"><img width="600px" src="/fig/cesium_fountain_atomic_clock.jpg"></div>
