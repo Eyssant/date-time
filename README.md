@@ -30,7 +30,7 @@
 <h2>Expanding Knowledge: Caesium in Spectroscopy</h2>
 <p>Caesium is used in scientific research in spectroscopy, particularly atomic absorption spectroscopy. This technique helps detect trace elements in various samples, playing a vital role in environmental testing, food safety, and pharmaceutical analysis.</p>
 
-<h2>Conclusion</h2>
+<h3>Conclusion</h3>
 <p>The caesium atom’s versatility is evident across its many applications, from keeping time with unmatched accuracy to enabling life-saving medical treatments and supporting industrial operations. As research continues, caesium’s potential uses are likely to expand, further cementing its importance in both current and future technologies.</p>
 
 </body>
